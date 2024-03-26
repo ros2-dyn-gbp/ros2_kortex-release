@@ -1,1 +1,1 @@
-{"base": "b5c462988a1b", "parent": "release/rolling/kinova_gen3_7dof_robotiq_2f_85_moveit_config", "previous": "8afdd055442a", "trim": "", "trimbase": ""}
+{"base": "04e4a82349cf", "parent": "release/rolling/kinova_gen3_7dof_robotiq_2f_85_moveit_config/0.2.2-2", "previous": "8afdd055442a", "trim": "", "trimbase": ""}
